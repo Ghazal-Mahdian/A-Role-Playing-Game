@@ -14,7 +14,7 @@ In this project, I learned how to work with arrays, strings, objects, functions,
 
 [![View](https://github.com/Ghazal-Mahdian/A-Role-Playing-Game/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/A-Role-Playing-Game/main/index.html)
 
-[![javascript](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/aroleplayingGame.png)](https://raw.githack.com/Ghazal-Mahdian/A-Role-Playing-Game/main/index.html)
+[![javascript](https://github.com/Ghazal-Mahdian/A-Role-Playing-Game/blob/main/images/aroleplayingGame.png)](https://raw.githack.com/Ghazal-Mahdian/A-Role-Playing-Game/main/index.html)
 
 
 ## Source
